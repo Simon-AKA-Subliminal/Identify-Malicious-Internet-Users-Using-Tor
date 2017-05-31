@@ -1,0 +1,6 @@
+c:\users\simon\documents\visual studio 2013\Projects\PolyMorphZ-Pack\PolyMorphZ-Pack\bin\Debug\PolyMorphZ-Pack.exe.config
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\PolyMorphZ-Pack\PolyMorphZ-Pack\obj\Debug\PolyMorphZ-Pack.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\PolyMorphZ-Pack\PolyMorphZ-Pack\bin\Debug\PolyMorphZ-Pack.exe
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\PolyMorphZ-Pack\PolyMorphZ-Pack\bin\Debug\PolyMorphZ-Pack.pdb
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\PolyMorphZ-Pack\PolyMorphZ-Pack\obj\Debug\PolyMorphZ-Pack.exe
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\PolyMorphZ-Pack\PolyMorphZ-Pack\obj\Debug\PolyMorphZ-Pack.pdb
